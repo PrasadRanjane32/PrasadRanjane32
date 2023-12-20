@@ -15,7 +15,8 @@
 const Prasad = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, ],
+  tools: [React, Redux, Node, Express],
+  database:[Mongodb, Firebase],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
