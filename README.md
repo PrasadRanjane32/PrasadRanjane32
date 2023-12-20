@@ -84,9 +84,9 @@ const Prasad = {
 
 ⭐️ From [@PrasadRanjane32](https://github.com/PrasadRanjane32)
 
-<!--- <a href="https://github.com/AnyTechie03/Logica_React">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AnyTechie03&repo=Logica_React" />
-</a> --->
+<a href="https://github.com/PrasadRanjane/DeveloperFolio">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadRanjane&repo=DeveloperFolio" />
+</a>
 
 <a href="https://github.com/PrasadRanjane32/D-Map2">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadRanjane32&repo=D-Map2" />
