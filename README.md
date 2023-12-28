@@ -89,7 +89,7 @@ const Prasad = {
 </a>
 
 <a href="https://github.com/PrasadRanjane32/D-Map2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadRanjane32&repo=D-Map" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadRanjane32&repo=D-Map" />
 </a>
 <a href="https://github.com/PrasadRanjane32/VaxCare">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadRanjane32&repo=VaxCare" />
