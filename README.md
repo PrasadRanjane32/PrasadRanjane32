@@ -94,3 +94,6 @@ const Prasad = {
 <a href="https://github.com/PrasadRanjane32/VaxCare">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrasadRanjane32&repo=VaxCare" />
 </a>
+<a href="https://github.com/AnyTechie03/Logica_React">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AnyTechie03&repo=Logica_React" />
+</a>
